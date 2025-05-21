@@ -1,7 +1,7 @@
 # **Mindustry Tool**
 
-![GitHub all releases](https://img.shields.io/github/downloads/MindustryVN/MindustryToolMod/total?style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/MindustryVN/MindustryToolMod/latest/total?style=flat-square)<br>
+![GitHub all releases](https://img.shields.io/github/downloads/MindustryVN/MindustryToolModV8/total?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/MindustryVN/MindustryToolModV8/latest/total?style=flat-square)<br>
 
 ![Icon](icon.png)
 
